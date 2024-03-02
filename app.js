@@ -27,7 +27,7 @@ const html = `
             } 
 
             .button{
-                background-color: blue;
+                background-color: #00ABE9;
                 padding: 15px 30px;
                 border-radius: 5px;
                 cursor: pointer;
